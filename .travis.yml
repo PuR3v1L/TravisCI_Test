@@ -7,4 +7,4 @@ python:
   - "3.4"
 # command to install dependencies
 # command to run tests
-script: main.py
+script: python main.py
